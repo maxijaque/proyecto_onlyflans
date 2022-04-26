@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: "Nunito", sans-serif;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+
+.card {
+    padding: 0;
+    height: 95%;
+}
+
+
+#navegador {
+    background-color: #f06000 !important;
+
+}
+
+#opciones_nav {
+    color: white;
+    background-color: #f06000 !important;
+}
+
+#pie {
+    background-color: #f06000 !important;
+
+}
+
+#principal {
+    min-height:90vh;
+}
